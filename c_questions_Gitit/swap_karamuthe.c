@@ -8,6 +8,7 @@ scanf("%d",&b);
 a=b;
 b=a;
 a=b;
+t=a;
 //what is that t doing there? kinda sus ryt!
 if (a==b){
     printf("Wenna bane! Swap wenna one! Aye balanna \n");
